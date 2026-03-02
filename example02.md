@@ -1,1 +1,1 @@
-This is same text.
+This is same text!
